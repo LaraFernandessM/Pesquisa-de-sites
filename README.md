@@ -1,4 +1,6 @@
-# 📰 Pesquisas de sites
+# 🚨 ATIVIDADE DE PESQUISA: Tipografia e Cores na Prática! 🎨💻
+
+## 🚨 Unidade Curricular:  Linguagem de Marcação
 
 ## 👋 Participantes
 <p>Lara Fernandes Mariano</p>  
